@@ -1,2 +1,2 @@
-# ethereum-sports-betting-platform
-# ethereum-sports-betting-platform
+WARNING : For educational purposes only 
+There ight be security risks use with caution
